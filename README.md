@@ -3,101 +3,34 @@
 
 <h3> I’m currently working on  </h3>
 <div>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-        alt="react" width="50" height="50" />
-</a>  &nbsp; &nbsp;
 
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
-        alt="typescript" width="50" height="50" />
-</a> &nbsp; &nbsp;
-
-<a href="https://redux.js.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux"
-        width="50" height="50" />
-</a> &nbsp; &nbsp;
-
-<a href="https://redux-saga.js.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/redux-saga.svg" alt="redux-saga" width="50" height="50" />
-</a> &nbsp; &nbsp;
-
-<a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-        alt="nodejs" width="50" height="50" />
-</a>  &nbsp; &nbsp;
-
-<a href="https://fastify.dev/" target="_blank" rel="noreferrer">
-    <img src="https://fastify.dev/img/logos/fastify-white.svg" alt="express" width="50" height="50" />
-</a> &nbsp; &nbsp;
-
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/303301/postgresql-logo.svg"
-        alt="postgresql" width="50" height="50" />
-</a>
+ [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50" />](https://example.com) &nbsp; &nbsp;
+ [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="50" height="50" />]("https://www.typescriptlang.org/) &nbsp; &nbsp;
+ [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="50" height="50" />]("https://redux.js.org") &nbsp; &nbsp;
+ [<img src="https://cdn.worldvectorlogo.com/logos/redux-saga.svg" alt="redux-saga" width="50" height="50" />]("https://redux-saga.js.org/") &nbsp; &nbsp;
+ [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="node_js" width="50" height="50" />]("https://nodejs.org") &nbsp; &nbsp;
+ [<img src="https://fastify.dev/img/logos/fastify-white.svg" alt="fastify" width="50" height="50" />](""https://fastify.dev/") &nbsp; &nbsp;
+ [<img src="https://www.svgrepo.com/show/303301/postgresql-logo.svg" alt="postgresql" width="50" height="50" />]("https://www.postgresql.org") &nbsp; &nbsp;
 </div>
-<be /> <br />
+<br />
     
 <h3>  I'm also worked with </h3>
 <div>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-        alt="html5" width="50" height="50" /> &nbsp; &nbsp;
-</a>
 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-        alt="css3" width="50" height="50" /> &nbsp; &nbsp;
-</a>
-
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" alt="bootstrap" width="50" height="50" />
-</a> &nbsp; &nbsp;
-
-<a href="https://www.w3schools.com/js/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="javascript" width="50" height="50" />
-</a> &nbsp; &nbsp; &nbsp; &nbsp; 
-
-<a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://ih1.redbubble.net/image.438908244.6144/st,small,507x507-pad,600x600,f8f8f8.u2.jpg" alt="express"
-        width="50" height="50" />
-</a>  &nbsp; &nbsp;
-
-<a href="https://www.chartjs.org" target="_blank" rel="noreferrer">
-    <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="50" height="50" />
-</a> &nbsp; &nbsp;
-
-<a href="https://graphql.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="50" height="50" />
-</a> &nbsp; &nbsp;
-
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-        alt="mysql" width="50" height="50" />
-</a> &nbsp; &nbsp;
-
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
-        alt="mongodb" width="50" height="50" />
-</a> &nbsp; &nbsp; <br />
-
-<a href="https://redis.io" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/303460/redis-logo.svg"
-        alt="redis" width="50" height="50" />
-</a> &nbsp; &nbsp;
-
-<a href="https://www.prisma.io/" target="_blank" rel="noreferrer">
-    <img src="https://prismalens.vercel.app/header/logo-white.svg" alt="prisma" width="50" height="50" />
-</a> &nbsp; &nbsp;
-
-<a href="https://www.npmjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/npm.svg" alt="npm" width="50" height="50" />
-</a> &nbsp; &nbsp;
-
-<a href="https://classic.yarnpkg.com/en/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/yarn.svg" alt="yarn" width="50" height="50" />
-</a> &nbsp; &nbsp;
-
+ [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html" width="50" height="50" />](""https://www.w3.org/html/") &nbsp; &nbsp;
+ [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css" width="50" height="50" />]("https://www.w3schools.com/css/") &nbsp; &nbsp;
+ [<img src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" alt="bootstrap" width="50" height="50" />]("https://getbootstrap.com") &nbsp; &nbsp;
+ [<img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="js" width="50" height="50" />]("https://www.w3schools.com/js/") &nbsp; &nbsp;
+ [<img src="https://ih1.redbubble.net/image.438908244.6144/st,small,507x507-pad,600x600,f8f8f8.u2.jpg" alt="express" width="50" height="50" />]("https://expressjs.com") &nbsp; &nbsp;
+ [<img src="https://www.chartjs.org/media/logo-title.svg" alt="chart" width="50" height="50" />](""https://www.chartjs.org") &nbsp; &nbsp;
+ [<img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="50" height="50" />](""https://graphql.org") &nbsp; &nbsp;
+ [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50" />]("https://www.mysql.com") &nbsp; &nbsp;
+ [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50" />]("https://www.mongodb.com/") &nbsp; &nbsp;
+ [<img src="https://www.svgrepo.com/show/303460/redis-logo.svg" alt="redis" width="50" height="50" />]("https://redis.io") &nbsp; &nbsp;
+ [<img src="https://prismalens.vercel.app/header/logo-white.svg" alt="prisma" width="50" height="50" />]("https://www.prisma.io/") &nbsp; &nbsp;
+ [<img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/npm.svg" alt="npm" width="50" height="50" />]("https://www.npmjs.com/"") &nbsp; &nbsp;
+ [<img src="https://cdn.worldvectorlogo.com/logos/yarn.svg" alt="yarn" width="50" height="50" />]("https://classic.yarnpkg.com/en/") &nbsp; &nbsp;
+ </div>
 
 <h3 align="left"> NPM </h3>
 
