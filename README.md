@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Manikandan</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
+![alt text](https://miro.medium.com/v2/resize:fit:679/1*yw0TnheAGN-LPneDaTlaxw.gif "Logo Title Text 1")
+
+
 <p align="left">
     <img src="https://komarev.com/ghpvc/?username=manikandankathiresan&label=Profile%20views&color=0e75b6&style=flat"
         alt="manikandankathiresan" />
