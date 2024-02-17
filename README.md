@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Manikandan</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
-![alt text](https://miro.medium.com/v2/resize:fit:679/1*yw0TnheAGN-LPneDaTlaxw.gif "Logo Title Text 1")
+![alt text](https://grras.com/files/sgbaxnrabaysf8ugrxu6/blog_image_mern_stck.jpeg?s=940x350 "Logo Title Text 1")
 
 
 <p align="left">
