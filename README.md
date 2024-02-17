@@ -79,10 +79,10 @@
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
         alt="mongodb" width="75" height="75" />
-</a> &nbsp; &nbsp;
+</a> &nbsp; &nbsp; <br />
 
 <a href="https://redis.io" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg"
+    <img src="https://www.svgrepo.com/show/303460/redis-logo.svg"
         alt="redis" width="75" height="75" />
 </a> &nbsp; &nbsp;
 
