@@ -1,6 +1,14 @@
 <h1 align="center">Hi 👋, I'm Manikandan</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
+<h3 align="left">Connect with me:</h3>
+<div>
+ 
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" alt="linkedin" width="50" height="50" />]("https://www.linkedin.com/in/manikandan-k-9095/") &nbsp; &nbsp;
+<a href="mailto:abc@example.com"><img src="https://logowik.com/content/uploads/images/gmail-new-icon5198.jpg" alt="mail" width="50" height="50" /></a>
+
+</div>
+
 <h3> I’m currently working on  </h3>
 <div>
 
@@ -63,14 +71,6 @@
  [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev.to" width="50" height="50" />]("https://dev.to/dev.to/nameismani") &nbsp; &nbsp;
 </div>
  
-
-<h3 align="left">Connect with me:</h3>
-
-<div>
- 
-[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" alt="linkedin" width="50" height="50" />]("https://www.linkedin.com/in/manikandan-k-9095/") &nbsp; &nbsp;
-<a href="mailto:abc@example.com"><img src="https://logowik.com/content/uploads/images/gmail-new-icon5198.jpg" alt="mail" width="50" height="50" /></a>
-</div>
 
 <h3 align="left"> Programming Languages / Others </h3>
 <div>
