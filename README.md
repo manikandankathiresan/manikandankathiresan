@@ -1,5 +1,8 @@
-<h1 align="center">Hi <img src="https://em-content.zobj.net/source/microsoft-teams/363/waving-hand_1f44b.png" height="40px" width="40px"/>, I'm Manikandan</h1>
-<h3 align="center">A passionate Full Stack Developer from India</h3>
+<h1 align="center"><img src="https://em-content.zobj.net/source/microsoft-teams/363/waving-hand_1f44b.png" height="40px" width="40px"/> Hi, I'm Manikandan
+<img src="https://em-content.zobj.net/source/telegram/386/man-technologist_1f468-200d-1f4bb.webp" height="60px" width="60px"/>
+</h1>
+<h3 align="center"> A passionate Full Stack Developer from India</h3>
+
 
 <h3 align="left">Connect with me:</h3>
 <div>
