@@ -57,13 +57,14 @@
 
 <h3 align="left">Tools / Others</h3>
 <div>
+
+[<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50" />](https://git-scm.com/)&nbsp;&nbsp;
+[<img src="https://seeklogo.com/images/G/github-logo-2E3852456C-seeklogo.com.png" alt="github" width="50" height="50" />](https://docs.github.com/en)&nbsp;&nbsp;
+[<img src="https://www.ambient-it.net/wp-content/uploads/2022/04/Logo-Jira-200x175-2.png" alt="jira" width="50" height="50" />](https://confluence.atlassian.com/jira)&nbsp;&nbsp;
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="50" height="50" />](https://www.docker.com/)&nbsp;&nbsp;
+[<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="50" height="50" />](https://postman.com)&nbsp;&nbsp;
+
  
-   [<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50" />]("https://git-scm.com/") &nbsp; &nbsp;
-  [<img src="https://seeklogo.com/images/G/github-logo-2E3852456C-seeklogo.com.png" alt="github" width="50" height="50" />]("https://docs.github.com/en") &nbsp; &nbsp;
-  [<img src="https://www.ambient-it.net/wp-content/uploads/2022/04/Logo-Jira-200x175-2.png" alt="jira" width="50" height="50" />]("https://confluence.atlassian.com/jira") &nbsp; &nbsp;
-  [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="50" height="50" />]("https://www.docker.com/") &nbsp; &nbsp;
-  [<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="50" height="50" />]("https://postman.com") &nbsp; &nbsp;
-  
 </div>
 
   
@@ -73,19 +74,21 @@
 <h3 align="left">Blogs and Post</h3>
 <div>
  
- [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev.to" width="50" height="50" />]("https://dev.to/dev.to/nameismani") &nbsp; &nbsp;
+ [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev.to" width="50" height="50" />](https://dev.to/nameismani)&nbsp;&nbsp;
+
 </div>
  
 
 <h3 align="left"> Programming Languages / Others </h3>
 <div>
 
- [<img src="https://cdn.worldvectorlogo.com/logos/c-1.svg" alt="" width="50" height="50" />]("") &nbsp; &nbsp;
- [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="50" height="50" />]("") &nbsp; &nbsp;
- [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="lunix" width="50" height="50" />]("https://www.linux.org/") &nbsp; &nbsp;
- [<img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="50" height="50" />]("https://heroku.com") &nbsp; &nbsp; 
- [<img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="50" height="50" />]("https://jestjs.io") &nbsp; &nbsp;
- [<img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="50" height="50" />]("https://webpack.js.org") &nbsp; &nbsp;
+[<img src="https://cdn.worldvectorlogo.com/logos/c-1.svg" alt="" width="50" height="50" />](https://www.javatpoint.com/c-programming-language-tutorial)&nbsp;&nbsp;
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="50" height="50" />](https://aws.amazon.com/)&nbsp;&nbsp;
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50" />](https://www.linux.org/)&nbsp;&nbsp;
+[<img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="50" height="50" />](https://heroku.com)&nbsp;&nbsp;
+[<img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="50" height="50" />](https://jestjs.io)&nbsp;&nbsp;
+[<img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="50" height="50" />](https://webpack.js.org)&nbsp;&nbsp;
+
  
 </div>
  
