@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Manikandan</h1>
+<h1 align="center">Hi <img src="https://em-content.zobj.net/source/microsoft-teams/363/waving-hand_1f44b.png" height="40px" width="40px"/>, I'm Manikandan</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
 <h3 align="left">Connect with me:</h3>
