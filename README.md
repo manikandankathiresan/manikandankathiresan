@@ -3,8 +3,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <div>
- 
-[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" alt="linkedin" width="50" height="50" />]("https://www.linkedin.com/in/manikandan-k-9095/") &nbsp; &nbsp;
+
+ [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" alt="linkedin" width="50" height="50" />](https://www.linkedin.com/in/manikandan-k-9095/)&nbsp;&nbsp;
 <a href="mailto:abc@example.com"><img src="https://logowik.com/content/uploads/images/gmail-new-icon5198.jpg" alt="mail" width="50" height="50" /></a>
 
 </div>
