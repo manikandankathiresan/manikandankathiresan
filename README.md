@@ -23,6 +23,7 @@
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="node_js" width="40" height="40" />](https://nodejs.org) &nbsp; &nbsp;
 [<img src="https://fastify.dev/img/logos/fastify-white.svg" alt="fastify" width="40" height="40" />](https://fastify.dev/) &nbsp; &nbsp;
 [<img src="https://www.svgrepo.com/show/303301/postgresql-logo.svg" alt="postgresql" width="40" height="40" />](https://www.postgresql.org) &nbsp; &nbsp;
+[<img src="https://cdn.worldvectorlogo.com/logos/vitejs.svg" alt="postgresql" width="40" height="40" />](https://vitejs.dev/) &nbsp; &nbsp;
 
 </div>
  
