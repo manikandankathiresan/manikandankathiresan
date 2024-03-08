@@ -68,6 +68,8 @@
 [<img src="https://www.ambient-it.net/wp-content/uploads/2022/04/Logo-Jira-200x175-2.png" alt="jira" width="40" height="40" />](https://confluence.atlassian.com/jira)&nbsp;&nbsp;
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" />](https://www.docker.com/)&nbsp;&nbsp;
 [<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" />](https://postman.com)&nbsp;&nbsp;
+[<img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/UbuntuCoF.svg" alt="ubuntu" width="40" height="40" />](https://postman.com)&nbsp;&nbsp;
+[<img src="https://www.svgrepo.com/show/373924/nginx.svg" alt="nginx" width="45" height="45" />](https://postman.com)&nbsp;&nbsp;
 
  
 </div>
