@@ -4,6 +4,56 @@
 <h3 align="center"> A passionate Full Stack Developer from India</h3>
 
 
+## About Me
+
+Hello! I’m Manikandan K, and I have over four years of experience in the software industry. I started my career as a frontend developer, where I honed my skills in HTML, CSS, JavaScript, and frameworks like React and Redux. I have a strong foundation in responsive web design, ensuring robust and user-friendly interfaces.
+
+As I progressed, I expanded my expertise to backend technologies, working with Node.js and Express, as well as databases like MongoDB, PostgreSQL, and MySQL. I’m well-versed in Agile methodologies, which has helped me collaborate effectively in team environments and deliver high-quality products.
+
+I’m passionate about creating seamless user experiences and constantly learning new technologies to improve my skills. I’m excited about the opportunity to contribute to innovative projects and further develop my career in software development.
+
+
+## Technologies Used
+
+### Frontend
+- **HTML**: Structure of web pages
+- **CSS**: Styling for responsive design
+- **JavaScript**: Dynamic functionality
+- **React**: User interface library for building UIs
+- **Redux**: State management for JavaScript applications
+- **Redux-Saga**: Side effect management for Redux
+- **Sass**: CSS preprocessor for modular styles
+- **Bootstrap/Tailwind CSS**: UI component libraries
+
+### Backend
+- **Node.js**: JavaScript runtime for server-side development
+- **Express**: Web framework for Node.js
+- **Fastify**: Fast and low-overhead web framework
+- **RESTful APIs**: Building APIs for client-server communication
+- **GraphQL**: Query language for APIs
+
+### Databases
+- **MongoDB**: NoSQL database for flexible data storage
+- **PostgreSQL**: Relational database with advanced features
+- **MySQL**: Popular relational database management system
+- **Mongoose**: ODM for MongoDB and Node.js
+- **Prisma**: Promise-based ORM for Node.js
+
+### Tools & Technologies
+- **Version Control**: Git and GitHub for collaboration and versioning
+- **Package Managers**: npm and yarn for dependency management
+- **Testing Frameworks**: Jest for unit and integration testing
+- **CI/CD Tools**: GitHub Actions, Jenkins for continuous integration
+- **Containerization**: Docker for containerized applications
+- **Environment Variables**: dotenv for managing environment configurations
+- **Agile Methodologies**: Scrum, Kanban for project management
+
+### Others
+- **API Documentation**: Swagger or Postman for API documentation
+- **Code Quality Tools**: ESLint and Prettier for code linting and formatting
+- **Web Performance Tools**: Lighthouse for performance auditing
+
+
 <h3 align="left">Connect with me:</h3>
 <div>
 
